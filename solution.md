@@ -11,3 +11,8 @@
     I began by installing Git on my laptop from https://git-scm.com/ and carefully configuring it. The next step was creating a GitHub account at https://github.com to host my repositories. With my GitHub account set up, I proceeded to initialize a Git repository for my current project. This involved connecting Git with GitHub, then adding a README.md file. I added and committed the README.md file locally, then pushed it to GitHub.
 
     4. Install Necessary Programming Languages and Runtimes: Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
+
+    I visited the official Python website, https://www.python.org/downloads/, where I downloaded Python for Windows. After downloading, I double-clicked the installer and followed the on-screen instructions. To verify the installation, I opened a command prompt window and typed python --version , confirming the installed Python version. Additionally, I enhanced my development environment by adding extensions in Visual Studio Code. I proceeded by creating a file named main.py and saved it to start working on my project.
+
+
+    5.Configure a Database (MySQL): Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
