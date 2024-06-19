@@ -1,3 +1,6 @@
+    I summarized the work in this pdf because i unable to add mages
+    https://drive.google.com/file/d/1TIzeBu3LkAAt1DDveI4Z7cjuy8ro7YFP/view?usp=sharing
+
     1.Select Your Operating System (OS): Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11
 
     To install Windows 11, I visited the official Microsoft website at https://www.microsoft.com/software-download/windows11 and downloaded the Windows 11 Disk Image (ISO) onto my USB drive. Afterward, I turned on my PC and pressed the designated key to open the boot-device selection menu. From there, I chose the option to boot the PC from the USB flash drive. This initiated the Windows Setup process, where I followed the on-screen instructions to complete the installation of Windows 11
