@@ -16,3 +16,5 @@
 
 
     5.Configure a Database (MySQL): Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
+
+    I visited the MySQL Community Downloads page to obtain MySQL. Once downloaded, I ran the installer, opting for the "Developer Default" setup, which includes MySQL Server, MySQL Workbench, connectors, and additional tools. After accepting the license agreement and specifying the installation directory, I proceeded with the default setup type. During installation, I configured MySQL Server to operate as a standalone server. I set a strong and secure password for the root user and chose to install MySQL Server as a Windows Service for convenience. Upon completing the installation, I closed the installer by clicking "Finish". To confirm the successful installation, I launched MySQL Workbench and connected to MySQL Server using the root user credentials set during installation.
