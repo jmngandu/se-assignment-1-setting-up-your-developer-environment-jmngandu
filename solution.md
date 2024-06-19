@@ -1,5 +1,5 @@
-    I summarized the work in this pdf because i unable to add mages
-    https://drive.google.com/file/d/1TIzeBu3LkAAt1DDveI4Z7cjuy8ro7YFP/view?usp=sharing
+I summarized the work in this pdf because i unable to add mages
+https://drive.google.com/file/d/1TIzeBu3LkAAt1DDveI4Z7cjuy8ro7YFP/view?usp=sharing
 
     1.Select Your Operating System (OS): Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11
 
